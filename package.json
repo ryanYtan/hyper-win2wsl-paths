@@ -1,0 +1,19 @@
+{
+  "name": "hyper-win2wsl-paths",
+  "version": "1.0.0",
+  "description": "Converts Windows paths to WSL-style paths when drag-and-dropping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanYtan/hyper-win2wsl-paths.git"
+  },
+  "author": "ryanYtan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanYtan/hyper-win2wsl-paths/issues"
+  },
+  "homepage": "https://github.com/ryanYtan/hyper-win2wsl-paths#readme"
+}
